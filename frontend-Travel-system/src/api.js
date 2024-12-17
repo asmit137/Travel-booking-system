@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'http://localhost:5000' });
+const API = axios.create({ baseURL: 'https://travel-booking-system-2ub1.onrender.com' });
 
 export const fetchPackages = () => API.get('/packages');
 export const fetchPackageById = (id) => API.get(`/packages/${id}`);
