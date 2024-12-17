@@ -2,7 +2,7 @@ Here's a sample **README.md** file for your MERN project:
 
 ---
 
-# **Travel Agency Booking System**
+# **Travel Booking System**
 
 A full-stack **MERN (MongoDB, Express, React, Node.js)** application that allows users to explore travel packages, make bookings, and manage bookings via an admin panel.
 
@@ -19,7 +19,7 @@ The Travel Agency Booking System allows users to browse available travel package
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **Deployment**: Vercel  
+- **Deployment**: Render 
 
 ---
 
