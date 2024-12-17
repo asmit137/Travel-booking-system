@@ -1,6 +1,4 @@
-Here's a sample **README.md** file for your MERN project:
 
----
 
 # **Travel Booking System**
 
