@@ -120,9 +120,8 @@ Make sure the **MongoDB database** is running, and verify the API endpoints are 
 ## **Deployment**
 
 The project is deployed using **Vercel**:  
-- **Frontend URL**: (https://travel-booking-system-frontend.onrender.com)  
-- **Backend URL**: (https://travel-booking-system-2ub1.onrender.com)
-
+- **Frontend URL**: https://travel-booking-system-frontend.onrender.com  
+- **Backend URL**: https://travel-booking-system-2ub1.onrender.com
 
 
 
